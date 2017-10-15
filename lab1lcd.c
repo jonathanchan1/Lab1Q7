@@ -58,7 +58,7 @@ void main (void)
     WriteCmdXLCD( BLINK_ON );
     
     while( BusyXLCD() );
-    putrsXLCD("Hello World!");
+    putrsXLCD("HelloWorld!");
     
     while( BusyXLCD() );
        
