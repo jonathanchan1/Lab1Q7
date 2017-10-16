@@ -67,7 +67,7 @@
 #define LINE_5X10  0b00110100  /* 5x10 characters               */
 #define LINES_5X7  0b00111000  /* 5x7 characters, multiple line */
 
-#define PARAM_SCLASS  
+#define PARAM_SCLASS auto
 #define MEM_MODEL far  /* Change this to near for small memory model */
 
 
